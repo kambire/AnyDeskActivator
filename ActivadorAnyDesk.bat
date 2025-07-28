@@ -16,9 +16,11 @@ if "%~1"=="RUN_AT_START" goto ELIMINAR_DIRECTO
 
 :MENU
 cls
-echo =============== AnydeskActivator1.1 ===============
+echo ===================================================
+echo ========= AnydeskActivator1.1 by elkambi ==========
 echo ============== Se Encuentra en Beta ===============
 echo == https://github.com/kambire/AnyDeskActivator/ ===
+echo ===================================================
 echo 1. Eliminar archivo service.conf
 echo 2. Reiniciar servicio AnyDesk
 echo 3. Verificar instalacion de AnyDesk
